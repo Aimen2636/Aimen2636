@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm [Aimen Ejaz Kiani]
+# 👋 Hi there, I'm Aimen Ejaz Kiani
 
 ### 🚀 Aspiring Data Scientist | Python Developer | Tech Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 I am currently working on **[Ai/ML]**.
+- 🎓 I am currently working on **Ai/ML**.
 - 💡 I love solving problems using **Data & Code**.
 - 🌱 Learning more about **Machine Learning & Deep Learning**.
 - ✍️ I use GitHub to document my learning journey and assignments.
@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Aimen2636](https://github-readme-stats.vercel.app/api?username=Aimen2636&show_icons=true&theme=radical)
+!Aimen2636(https://github-readme-stats.vercel.app/api?username=Aimen2636&show_icons=true&theme=radical)
 
 ---
 
